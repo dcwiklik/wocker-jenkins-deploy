@@ -55,7 +55,7 @@ Tworzenie nowego kontenera
 ---
 _wocker start CONTAINER_
 ```
-wocker start test
+wocker run --name test
 ```
 
 Zatrzymywanie kontenera
@@ -69,7 +69,7 @@ Uruchamianie istniejącego kontenera
 ---
 _wocker run CONTAINER_
 ```
-wocker run test
+wocker start test
 ```
 
 Wyłączanie maszyny wirtualnej
