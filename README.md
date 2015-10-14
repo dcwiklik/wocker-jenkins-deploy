@@ -77,3 +77,7 @@ Wyłączanie maszyny wirtualnej
 ```
 vagrant halt
 ```
+
+
+--
+jk
